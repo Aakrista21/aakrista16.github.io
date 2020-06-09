@@ -43,15 +43,20 @@ h1 {
 }
 
 h2 {
-    opacity: .9;
-    background-color: whitesmoke;
+    background-color: grey;
     width: 45%;
     float: right;
-
+    padding: 10px;
+    border: 2px solid;
 }
 
 img {
     height: 400px;
     width: 700px;
     padding-top: 20px;
+
+}
+
+.Polar {
+    padding-top: 2px;
 }
